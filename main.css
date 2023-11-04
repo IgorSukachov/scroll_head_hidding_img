@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: center / 160% no-repeat url(./img.jpg);
+    background-attachment: fixed;
+}
+
+section {
+    padding: 100px;
+    color: #000;
+}
+
+p {
+    font-size: 1.2em;
+}
